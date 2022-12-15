@@ -10,6 +10,8 @@
 
 [کد](session%204/session4.js) / [تکلیف](session%204/session4_homework.md)
 
+جواب تکلیف: [سوال 1](session%204/homework_1.js) / [سوال 2](session%204/homework_2.js)
+
 ## جلسه‌ی 5
 
 [تکلیف](session%205/session5_homework.md)
