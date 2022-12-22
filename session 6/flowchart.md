@@ -2,10 +2,10 @@
 
 ```mermaid
 graph TD
- A((Start / Stop\nشروع / پایان))
- B["Assign = \nواگذاری"]
- C[/"Input / Output\nورودی / خروجی"/]
- D{ Condition\nشرط }
+ A((Start / Stop شروع / پایان))
+ B["Assign =  واگذاری"]
+ C[/"Input / Output ورودی / خروجی"/]
+ D{ Condition شرط }
 ```
 
 ## `for` Loop
