@@ -15,3 +15,5 @@
 ## جلسه‌ی 5
 
 [تکلیف](session%205/session5_homework.md)
+
+جواب تکلیف: [سوال 1](session%205/homework_1.js) / [سوال 2](session%205/homework_2.js)
