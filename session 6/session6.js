@@ -25,7 +25,7 @@
 	// factorial
 	// 5! = 5 x 4 x 3 x 2 x 1
 
-	let n = 50;
+	let n = 5;
 	let factorial = 1;
 	for (let i = n; i >= 1; i--) {
 		factorial *= i;
