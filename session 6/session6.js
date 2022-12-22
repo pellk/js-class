@@ -33,13 +33,18 @@
 	console.log(factorial);
 }
 
-// حلقه‌ی بی پایان
-// دستور break
-let n = 0;
-for (; ;) {
-	n++;
-	if (n > 1000) {
-		break;
+{
+	// حلقه‌ی بی پایان
+	// و دستور
+	// break
+	// برای خروج
+	
+	let n = 0;
+	for (; ;) {
+		n++;
+		if (n > 1000) {
+			break;
+		}
 	}
+	console.log(n);
 }
-console.log(n)
