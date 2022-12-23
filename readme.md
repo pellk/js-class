@@ -23,3 +23,5 @@
 [کد](session%206/session6.js)
 
 [فلوچارت](session%206/flowchart.md)
+
+[تکلیف](session%206/session6_homework.md)
