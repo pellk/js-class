@@ -20,10 +20,8 @@
 
 ## جلسه‌ی 6
 
-[کد](session%206/session6.js)
+[کد](session%206/session6.js) / [تکلیف](session%206/session6_homework.md)
 
 [فلوچارت](session%206/flowchart.md)
-
-[تکلیف](session%206/session6_homework.md)
 
 جواب تکلیف: [سوال 1](session%206/homework_1.js) / [سوال 2](session%206/homework_2.md) / [سوال 3](session%206/homework_3.js) / [سوال 4](session%206/homework_4.js)

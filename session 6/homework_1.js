@@ -5,3 +5,5 @@ for (let i = 0; i < b; i++) {
    p *= a;
 }
 console.log(p);
+
+// 125

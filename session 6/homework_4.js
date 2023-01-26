@@ -5,7 +5,10 @@
       result += '# ';
    }
    console.log(result);
+   
+   // # # #‌ # #
 }
+
 
 {
    let n = 5;
@@ -16,4 +19,6 @@
       result += dash + '@';
    }
    console.log(result);
+
+   // -@--@---@----@----@
 }
