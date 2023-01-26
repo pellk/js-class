@@ -25,3 +25,7 @@
 [فلوچارت](session%206/flowchart.md)
 
 جواب تکلیف: [سوال 1](session%206/homework_1.js) / [سوال 2](session%206/homework_2.md) / [سوال 3](session%206/homework_3.js) / [سوال 4](session%206/homework_4.js)
+
+## جلسه‌ی 7
+
+[کد](session%207/session7.js) / [تکلیف](session%207/session7_homework.md)
