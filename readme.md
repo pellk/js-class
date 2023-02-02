@@ -29,3 +29,5 @@
 ## جلسه‌ی 7
 
 [کد](session%207/session7.js) / [تکلیف](session%207/session7_homework.md)
+
+جواب تکلیف: [سوال 1](session%207/homework_1.js) / [سوال 2](session%207/homework_2.js)
