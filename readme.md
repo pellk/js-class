@@ -37,3 +37,7 @@
 [تکلیف](session%208/session8_homework.md)
 
 جواب تکلیف: [سوال 1](session%208/homework_1.js) / [سوال 2](session%208/homework_2.js)
+
+## جلسه 9
+
+[خلاصه](session%209/summary.md)
