@@ -40,4 +40,4 @@
 
 ## جلسه 9
 
-[خلاصه](session%209/summary.md)
+[خلاصه](session%209/summary.md) / [تکلیف](session%209/session9_homework.md)
