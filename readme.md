@@ -43,3 +43,7 @@
 [خلاصه](session%209/summary.md) / [تکلیف](session%209/session9_homework.md)
 
 جواب تکلیف: [سوال 1](session%209/homework_1.js) / [سوال 2](session%209/homework_2.js) / [سوال 3](session%209/homework_3.js)
+
+## جلسه 10
+
+[خلاصه](session%2010/summary.md)
