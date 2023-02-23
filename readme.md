@@ -46,4 +46,4 @@
 
 ## جلسه 10
 
-[خلاصه](session%2010/summary.md)
+[خلاصه](session%2010/summary.md) / [تکلیف](session%2010/session10_homework.md)
