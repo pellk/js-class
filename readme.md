@@ -47,3 +47,5 @@
 ## جلسه 10
 
 [خلاصه](session%2010/summary.md) / [تکلیف](session%2010/session10_homework.md)
+
+جواب تکلیف: [سوال 1](session%2010/homework_1.js) / [سوال 2](session%2010/homework_2.js)
