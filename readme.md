@@ -55,3 +55,7 @@
 [خلاصه](session%2011/summary.md) / [تکلیف](session%2011/session11_homework.md)
 
 جواب تکلیف: [سوال 1](session%2011/homework_1.js) / [سوال 2](session%2011/homework_2.js)
+
+## جلسه 12
+
+[خلاصه](session%2012/summary.md)
