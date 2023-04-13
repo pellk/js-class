@@ -58,4 +58,4 @@
 
 ## جلسه 12
 
-[خلاصه](session%2012/summary.md)
+[خلاصه](session%2012/summary.md) / [تکلیف](session%2012/session12_homework.md)
